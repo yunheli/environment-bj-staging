@@ -13,7 +13,7 @@ pipeline {
       steps {
         container('maven') {
           dir('env') {
-            sh 'jx step helm build --log-level debug'
+            sh 'jx step helm build'
           }
         }
       }
