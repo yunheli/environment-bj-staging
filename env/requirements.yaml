@@ -1,9 +1,9 @@
 dependencies:
 - name: exposecontroller
   version: 2.3.82
-  repository: https://aliacs-app-catalog.oss-cn-hangzhou.aliyuncs.com/pre/charts-incubator/
+  repository: https://aliacs-app-catalog.oss-cn-hangzhou.aliyuncs.com/charts-incubator/
   alias: expose
 - name: exposecontroller
   version: 2.3.82
-  repository: https://aliacs-app-catalog.oss-cn-hangzhou.aliyuncs.com/pre/charts-incubator/
+  repository: https://aliacs-app-catalog.oss-cn-hangzhou.aliyuncs.com/charts-incubator/
   alias: cleanup
