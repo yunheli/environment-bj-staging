@@ -1,9 +1,9 @@
 dependencies:
 - name: exposecontroller
-  version: 2.3.85
-  repository: http://chartmuseum.jenkins-x.io
+  version: 2.3.82
+  repository: https://aliacs-app-catalog.oss-cn-hangzhou.aliyuncs.com/pre/charts-incubator/
   alias: expose
 - name: exposecontroller
-  version: 2.3.85
-  repository: http://chartmuseum.jenkins-x.io
+  version: 2.3.82
+  repository: https://aliacs-app-catalog.oss-cn-hangzhou.aliyuncs.com/pre/charts-incubator/
   alias: cleanup
